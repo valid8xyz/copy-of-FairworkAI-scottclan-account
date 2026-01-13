@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FairPay AI: Australian Award Calculator (All)",
+  "description": "An AI-powered Australian Modern Award calculator that interprets job descriptions to match awards and calculates pay rates, penalties, and allowances using the Gemini API.",
+  "requestFramePermissions": []
+}
